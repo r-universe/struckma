@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "dataquieR"]
+	path = dataquieR
+	url = https://gitlab.com/libreumg/dataquier
+[submodule "flexsiteboard"]
+	path = flexsiteboard
+	url = https://gitlab.com/libreumg/flexsiteboard
